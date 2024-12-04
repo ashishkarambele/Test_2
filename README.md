@@ -56,14 +56,13 @@ Following inferences can be drawn from the dashboard;
 Total Runs Scored: 27,093 (across all formats)
            
 ### [2] Performance by Format
-
-a) Test Format:
+    a) Test Format:
    - Average: 46.21
    - Centuries: 29
-b) ODI Format:
+    b) ODI Format:
    - Average: 57.22
    - Centuries: 50
-c) T20 Format: 
+    c) T20 Format: 
    - Average: 49.16
    - Centuries: 1
   
